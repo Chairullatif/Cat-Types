@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cat Types</string>
+    <string name="cat_type">Jenis kucing</string>
+    <string name="detail_cat">Detail penjelasan kucing</string>
+    <string name="my_name">Chairullatif Aji Sadewa</string>
+    <string name="my_email">Khoriullatif337@gmail.com</string>
+    <string name="splash_screen">Katalog Kucing</string>
+    <string name="splash_name">By Chairullatif</string>
+</resources>
