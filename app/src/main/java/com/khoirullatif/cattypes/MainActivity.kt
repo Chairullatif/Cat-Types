@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var rvCats: RecyclerView
     private var list: ArrayList<Cat> = arrayListOf()
-    private var newTitle: String = "Jesnis-Jenis Kucing"
+    private var newTitle: String = "Jenis-Jenis Kucing"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
